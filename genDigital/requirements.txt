@@ -1,0 +1,5 @@
+selenium>=4.3.0
+webdriver-manager>=3.4.2
+imageio==2.9.0
+numpy==1.21.0
+mss==6.1.0
